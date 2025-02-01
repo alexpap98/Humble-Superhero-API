@@ -1,0 +1,56 @@
+{
+  "correct_heroes": [
+    {
+      "name": "Spider-Man",
+      "superpower": "Spider-Sense",
+      "humility score": 1
+    },
+    {
+      "name": "Iron Man",
+      "superpower": "Powered Armor",
+      "humility score": 2
+    },
+    {
+      "name": "Wonder Woman",
+      "superpower": "Super Strength",
+      "humility score": 3
+    },
+    {
+      "name": "Captain America",
+      "superpower": "Super Soldier Strength",
+      "humility score": 10
+    },
+    {
+      "name": "The Flash",
+      "superpower": "Super Speed",
+      "humility score": "9"
+    }
+  ],
+  "wrong_heroes": [
+    {
+      "name": "Spider-Man",
+      "superpower": "Spider-Sense",
+      "humility score": 15
+    },
+    {
+      "name": "Iron Man",
+      "superpower": "Powered Armor",
+      "humility score": -2
+    },
+    {
+      "name": "Wonder Woman",
+      "superpower": "Super Strength",
+      "humility score": "test"
+    },
+    {
+      "name": "Captain America",
+      "superpower": "Super Soldier Strength",
+      "humility score": { "t": 1 }
+    },
+    {
+      "name": "The Flash",
+      "superpower": "Super Speed",
+      "humility score": "11"
+    }
+  ]
+}
